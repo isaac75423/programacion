@@ -1,2 +1,0 @@
-# programacion
-repositorio para programacion
